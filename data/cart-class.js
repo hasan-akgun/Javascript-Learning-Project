@@ -75,10 +75,9 @@ class Cart {
     this.saveToStorage();
   }
 }
-
-cart.loadFromStorage();
-
 const cart = new Cart('cart-oop');
+
+
 
 
 
